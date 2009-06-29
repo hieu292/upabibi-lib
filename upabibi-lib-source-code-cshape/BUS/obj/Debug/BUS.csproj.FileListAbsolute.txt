@@ -1,0 +1,9 @@
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\BUS\bin\Debug\BUS.dll
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\BUS\bin\Debug\BUS.pdb
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\BUS\bin\Debug\DAO.dll
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\BUS\bin\Debug\DTO.dll
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\BUS\bin\Debug\DTO.pdb
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\BUS\bin\Debug\DAO.pdb
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\BUS\obj\Debug\BUS.dll
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\BUS\obj\Debug\BUS.pdb

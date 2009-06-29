@@ -1,0 +1,7 @@
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\DAO\bin\Debug\DAO.dll
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\DAO\bin\Debug\DAO.pdb
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\DAO\bin\Debug\DTO.dll
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\DAO\bin\Debug\DTO.pdb
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\DAO\obj\Debug\DAO.dll
+C:\Documents and Settings\Hoang Anh Tran\Desktop\upabibi-lib-project\upabibi-lib-resource-googlecode\upabibi-lib-source-code-cshape\DAO\obj\Debug\DAO.pdb
